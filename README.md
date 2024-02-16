@@ -28,6 +28,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SOMNATH0904&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOMNATH0904&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
+[![somnath0904's GitHub | Stats](https://stats.quine.sh/somnath0904/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=somnath0904)
+<br>
+
 [![somnath0904's GitHub | Languages Over Time](https://stats.quine.sh/somnath0904/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=somnath0904)
 <br>
 
