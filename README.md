@@ -34,10 +34,10 @@
 [![somnath0904's GitHub | Languages Over Time](https://stats.quine.sh/somnath0904/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=somnath0904)
 <br>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=SOMNATH0904&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) <br>
 
-# 🐙 OctoHub
+# 🐙 OctoHub :
 
 <a href="https://discord.gg/qg8N7dq7tZ">
 	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/0" alt="OctoHub 2023 Level 0" />
