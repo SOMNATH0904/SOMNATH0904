@@ -1,66 +1,113 @@
-<img align="right" alt="Coding" width="383" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952g1osz28hwqui5piox2wfpmh8cdc7a1hjbm43bows&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
+<div id="header" align="center">
+
+<h1>Hey there, Somnath this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+
+</div>
 
 <br>
 
-<p align="center">
-  
-# Hello, World! 👋 I'm Somnath Shaw.
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+</div>
 
-## 💫 About Me:
-🔭 I’m currently pursuing my B.Tech in Siksha 'O' Anusandhan University and now I'm in my Second year.<br>🌱 I’m currently learning Web Development<br>⚡ All we are just started from "Hello World".
-<br><br>
+### 💫 About Me
 
-<h3 align="left">🌐 Socials (Connect with me) : </h3>
-<p align="left">
-<a href="https://linkedin.com/in/somnath0904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somnath0904" height="30" width="40" /></a>
-<a href="https://instagram.com/som_nath_0904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="som_nath_0904" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>
-</p>
+- 🎓 I'm a Student and Web Developer.
+- 🔭 I’m currently working on Web Development and DSA.
+- 🌱 I’m currently learning DevOps.
+- 👯 I’m looking to collaborate with open source enthusiasts and developers.
+- 🥅 2024 Goals: Learn DevOps, Nextjs And strengthen DSA.
+
 <br>
 
-<h3 align="left">💻 Tech Stacks : </h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p> <br>
+## 🌐 Socials:
 
-# 📊 GitHub Stats:
-  <div align="center">
-    <!-- Graph of Commits -->
-    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnath0904&theme=github_dark" alt="Graph of Commits" />
-    <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnath0904&theme=github_dark" alt="Top Languages" />
-    <!-- GitHub stats -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=github_dark" alt="GitHub Stats" />
-      <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnath0904&theme=github_dark" alt="Most Commit Languages" />
-    <!-- Histogram of Commits -->
-    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnath0904&theme=github_dark" alt="Histogram of Commits" /></br>
-  </div> <br>
+<div align="center">
 
-[![somnath0904's GitHub | Stats](https://stats.quine.sh/somnath0904/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=somnath0904)
+<a href="https://instagram.com/somnath_0904" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/somnath0904" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/somnath9411" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+</div>
+
 <br>
 
-[![somnath0904's GitHub | Languages Over Time](https://stats.quine.sh/somnath0904/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=somnath0904)
-<br>
 
-## 🏆 GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=SOMNATH0904&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) <br>
+## 💻 Tech Stack:
 
-# 🐙 OctoHub :
+<div align="center">
 
-<a href="https://discord.gg/qg8N7dq7tZ">
-	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/0" alt="OctoHub 2023 Level 0" />
-	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/1" alt="OctoHub 2023 Level 1" />
-	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/2" alt="OctoHub 2023 Level 2" />
-	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/3" alt="OctoHub 2023 Level 3" />
-	<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/4" alt="OctoHub 2023 Level 4" />
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,jquery,tailwind,vite,mongodb,postman,java,aws,vercel,git,bash,linux&perline=11" />
 </a>
 
+</div>
+
+<br>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somnath0904&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somnath0904&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somnath0904&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somnath0904&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somnath0904&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=somnath0904&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath0904&theme=radical">
+
+</div><br>
+
+# 🎖 Badges
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
+</div>
+</details>
+<br>
+<details>	
+ <summary><b>OctoHub Badges 🪶</b></summary><br>
+	<a href="https://discord.gg/qg8N7dq7tZ">
+		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/0" alt="OctoHub 2023 Level 0" />
+		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/1" alt="OctoHub 2023 Level 1" />
+		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/2" alt="OctoHub 2023 Level 2" />
+		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/3" alt="OctoHub 2023 Level 3" />
+		<img width="150" src="https://ecertificates.onrender.com/badge/contributor/octohub2023/somnathshaw900@gmail.com/level/hq/4" alt="OctoHub 2023 Level 4" />
+	</a>
+</div>
+</details>
+<br>
+<!--
+<details>
+  <summary><b> HoloPin Badges </b></summary>
+[![@somnath0904's Holopin board](https://holopin.me/somnath0904)](https://www.holopin.io/@somnath0904#)
+</details><br/>
+-->
+
+<hr>
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/somnath0904" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
 
 ---
 ### 🎎 Visitors count: <p align="center">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath0904&label=Profile%20views&color=0e75b6&style=flat" alt="somnath0904" /> </p> <br>
 
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
