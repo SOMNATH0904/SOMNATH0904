@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on Web Development and DSA.
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate with open source enthusiasts and developers.
-- 🥅 2024 Goals: Learn DevOps, Nextjs And strengthen DSA.
+- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA.
 
 <br>
 
